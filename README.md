@@ -46,10 +46,6 @@ The Reddit dataset was translated from English into Malayalam to simulate multil
 
 The goal of this project is to analyze how different machine learning and deep learning approaches perform in detecting sarcasm in multilingual social media text and to identify the most effective model for this task.
 
-## Contributors
-
-- Diya Deepak
-- Aashika Arunkumar
 
 
 
